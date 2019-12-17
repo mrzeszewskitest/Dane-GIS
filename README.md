@@ -26,6 +26,17 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **GUS - usługi INSPIRE na portalu geostatystycznym** 
      - _url:_ [https://geo.stat.gov.pl/inspire](https://geo.stat.gov.pl/inspire)
      - _opis:_ Na portalu geostatystycznym GUS udostępnia do pobrania granice okręgów oraz podstawowe dane demograficzne w siatce 1km x 1km.
+- **GUGiK - bezpłatne dane** 
+     - _url:_ [http://www.gugik.gov.pl/pzgik/dane-udostepniane-bez-oplat](http://www.gugik.gov.pl/pzgik/dane-udostepniane-bez-oplat)
+     - _opis:_ Na stronie GUGiK można znaleźć takie dane jak Państwowy Rejestr Granic, Bazę Danych Obiektów Ogólnogeograficznych oraz Numeryczny Model Terenu (100m). 
+- **GDOŚ - dane na temat ochrony środowiska**
+     - _url:_ [  http://www.gdos.gov.pl/dane-i-metadane](  http://www.gdos.gov.pl/dane-i-metadane)
+     - _opis:_ Na portalu GDOŚ udostępniane są dane (WMS i WFS) obejmujące granice i podstawowe informacje na temat wszystkich form ochrony przyrody w Polsce
+     
+     
+   
+
+
 
 
 
@@ -41,3 +52,5 @@ Poza wymienionymi danymi możesz szukać interesujących danych w takich miejsca
 1. [List of Gis Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources) na angielskojęzycznej stronie Wikipedii. Lista jest niestety mało aktualna (co można poprawić!) i nie zawiera linków do źródeł dla Polski (patrz wyżej). 
 
 2. [ESRI - Centrum ArcGIS Hub](https://hub.arcgis.com/search) - ogromna baza danych różnorodnych projektów i otwartych danych. Dzięki róznym mechanizmom wyszukiwania można filtrować dokładnie interesujące nas treści. Zaletą jej jest duży zbiór danych, a wadą bardzo różny poziom wykonania i charakter - są tam zarówno dane do pobrania i wykorzystania jak i gotowe mapy. Warto spróbować ale nie należy sobie zbyt wiele obiecywać. 
+
+3. [Strona GIS Support](https://gis-support.pl/baza-wiedzy/dane-do-pobrania/) - na stronie firmy GIS Support można znaleźć wiele informacji na temat danych do pobrania wraz z instrukcjami użycia portali. 
