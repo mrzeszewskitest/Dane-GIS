@@ -23,9 +23,13 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **Corine Land Cover - baza danych GIOŚ** 
      - _url:_ [https://clc.gios.gov.pl/](https://clc.gios.gov.pl/)
      - _opis:_ Projekt _Corine Land Cover_ jest przedsięwzięciem dostarczającym danych na temat pokrycia terenu/użytkowania ziemi na obszarze całej Europy od 1990. Udostępniane są dane rastrowe (komórka 100mx100m). 
+- **GUS - usługi INSPIRE na portalu geostatystycznym** 
+     - _url:_ [https://geo.stat.gov.pl/inspire](https://geo.stat.gov.pl/inspire)
+     - _opis:_ Na portalu geostatystycznym GUS udostępnia do pobrania granice okręgów oraz podstawowe dane demograficzne w siatce 1km x 1km.
 
 
-   
+
+
    
    
    
