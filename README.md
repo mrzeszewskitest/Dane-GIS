@@ -14,7 +14,7 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 - **System informacji przestrzennej dla Poznania**
      - _url:_ [sip.poznan.pl](sip_poznan.pl)
      - _opis:_ Szeroka baza danych: mapy, modele 3D budynków w standardzie CityGML, usługi mapowe OGC dające dostęp do licznych warstw (granice, plany, ortofotomapy etc.) - również jako WFS co umożliwia zapisanie ich do obróbki lokalnej. 
-- **Projekt Copernicus ** 
+- **Projekt Copernicus** 
      - _url:_ [https://copernicus.eu/](https://copernicus.eu/)
      - _opis:_ Europejski system monitoringu Ziemi - jego sześć serwisów (powierzchnia Ziemi, atmosfera, morza, zmiany klimatyczne, zarządzanie kryzysow, i  bezpieczeństwo) zapewnia różnorodne zestawy danych, również przestrzennycb - DEMy, użytkowanie terenu, stężenia areozoli etc.
 - **USGS Earth Explorer** 
