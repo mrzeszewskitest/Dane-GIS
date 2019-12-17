@@ -21,3 +21,4 @@ Poza wymienionymi danymi możesz szukać interesujących danych w takich miejsca
 
 1. [List of Gis Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources) na angielskojęzycznej stronie Wikipedii. Lista jest niestety mało aktualna (co można poprawić!) i nie zawiera linków do źródeł dla Polski (patrz wyżej). 
 
+2. [ESRI - Centrum ArcGIS Hub](https://hub.arcgis.com/search) - ogromna baza danych różnorodnych projektów i otwartych danych. Dzięki róznym mechanizmom wyszukiwania można filtrować dokładnie interesujące nas treści. Zaletą jej jest duży zbiór danych, a wadą bardzo różny poziom wykonania i charakter - są tam zarówno dane do pobrania i wykorzystania jak i gotowe mapy. Warto spróbować ale nie należy sobie zbyt wiele obiecywać. 
