@@ -8,5 +8,5 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
 ## Żródła danych
 
 1. **System informacji przestrzennej dla Poznania**
-  * **URL** [sip.poznan.pl](sip_poznan.pl)
-  * **OPIS**
+     - _url:_ [sip.poznan.pl](sip_poznan.pl)
+     - _ops:_ Szeroka baza danych: mapy, modele 3D budynków w standardzie CityGML, usługi mapowe OGC dające dostęp do licznych warstw (granice, plany, ortofotomapy etc.) - również jako WFS co umożliwia zapisanie ich do obróbki lokalnej. 
