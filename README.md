@@ -15,5 +15,9 @@ Poniższa lista jest nieuporządkowana. Jeśli chcesz zobaczyć źródła posort
      - _url:_ [sip.poznan.pl](sip_poznan.pl)
      - _opis:_ Szeroka baza danych: mapy, modele 3D budynków w standardzie CityGML, usługi mapowe OGC dające dostęp do licznych warstw (granice, plany, ortofotomapy etc.) - również jako WFS co umożliwia zapisanie ich do obróbki lokalnej. 
 
+## Gdzie szukać dalej
 
+Poza wymienionymi danymi możesz szukać interesujących danych w takich miejscach jak:
+
+1. [List of Gis Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources) na angielskojęzycznej stronie Wikipedii. Lista jest niestety mało aktualna (co można poprawić!) i nie zawiera linków do źródeł dla Polski (patrz wyżej). 
 
